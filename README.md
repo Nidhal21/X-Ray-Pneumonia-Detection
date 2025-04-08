@@ -22,3 +22,10 @@ A deep learning project to classify chest X-rays as "Pneumonia" or "Normal" usin
    ```bash
    git clone  https://github.com/Nidhal21/X-Ray-Pneumonia-Detection.git
    cd X-Ray-Pneumonia-Detection
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+## Usage 
+Run the script:
+   ```bash
+   python main.py
