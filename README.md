@@ -15,7 +15,7 @@ A deep learning project to classify chest X-rays as "Pneumonia" or "Normal" usin
   2. **Fine-Tuning**: Unfroze `conv5_block16_1_conv` onward 
 - **Accuracy**: 
   - Model 1: 79% (test), 75% (val).
-  - Model 2:86.5% (test), 93.75% (val).
+  - Model 2: 86.5% (test), 93.75% (val).
 
 ## Installation
 1. Clone the repo:
